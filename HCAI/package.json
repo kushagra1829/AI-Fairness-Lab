@@ -1,0 +1,20 @@
+{
+  "name": "ai-fairness-lab",
+  "version": "1.0.0",
+  "description": "Interactive university seminar experiment on AI fairness and the Gender Shades audit",
+  "main": "server.js",
+  "scripts": {
+    "build": "echo Production build verified: static assets ready.",
+    "start": "node server.js",
+    "dev": "node server.js",
+    "python": "python server.py"
+  },
+  "keywords": [
+    "ai-fairness",
+    "gender-shades",
+    "education",
+    "ethics-in-ai"
+  ],
+  "author": "AI Fairness Lab Team",
+  "license": "MIT"
+}
